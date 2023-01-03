@@ -2,7 +2,7 @@
 - 👀 I’m interested in competative coding
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me instagram@the_flirtter
+- 📫 How to reach me instagram@sandy_21.04
 
 <!---
 SandipanJena/SandipanJena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
